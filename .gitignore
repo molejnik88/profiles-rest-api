@@ -137,4 +137,7 @@ dmypy.json
 ### Vagrant Patch ###
 *.box
 
+# pycharm
+./idea
+
 # End of https://www.gitignore.io/api/python,vagrant
